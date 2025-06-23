@@ -1,0 +1,11 @@
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-06-23 20:49 +0530
+Nmap scan report for Unit (192.168.1.1)
+Host is up (0.028s latency).
+MAC Address: 24:DE:8A:EA:F0:E1 (Nokia Solutions and Networks GmbH & KG)
+Nmap scan report for 192.168.1.2
+Host is up.
+MAC Address: 06:5F:96:AF:50:23 (Unknown)
+Nmap scan report for 192.168.1.9
+Host is up.
+Nmap done: 256 IP addresses (3 hosts up) scanned in 54.52 seconds
+
